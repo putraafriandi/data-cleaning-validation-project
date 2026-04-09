@@ -74,5 +74,5 @@ Key Insights
 - Removing invalid data improves analysis accuracy
 
 ## Conclusion
-This project demonstrates the importance of data cleaning and validation in ensuring accurate and reliable analysis.
+This project the importance of data cleaning and validation in ensuring accurate and reliable analysis.
 By transforming raw data into a structured format, the dataset becomes ready for business use and decision-making.
